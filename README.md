@@ -24,12 +24,16 @@ Anyone, we BUILDERS can be a collection of people with development skills to mar
 
 # Become A Builder 
 
-## How to submit an application?
-https://github.com/Benjamin-Mooney/Builder-Application/issues/new/choose
-Fill out an issue
+#### Before Posting
 
-How to submit a new job post?
-Every job post MUST strictly be written in English. Furthermore, it must comply the following rules:
+We strongly believe that good BUILDER always provides a thoughtful post depicting their skills.
+
+## How to submit an application?
+
+1. (Fill out an new Issue)[https://github.com/Benjamin-Mooney/Builder-Application/issues/new/choose
+Fill out an issue]
+
+***Every job post MUST strictly be written in English. Furthermore, it must comply the following rules:***
 
 ### Title Format
 
@@ -55,7 +59,6 @@ The content MUST be in Markdown format.
 
 ## What Can You Bring To The Community/Product
 ```
-
 
 
 # Notes 
